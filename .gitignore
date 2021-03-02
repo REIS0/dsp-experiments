@@ -1,7 +1,7 @@
 # Created files
 adelay.wav
 fdelay.wav
-flanger.wav
+flanger*.wav
 
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,visualstudiocode
